@@ -16,7 +16,7 @@ https://cybersharing.net/s/266989fb9d6c56b1
 
 First of all, we need to have `Cisco Packet Tracer` installed to solve this challenge. After downloading the attachments and running Cisco Packet Tracer, we should get something like this.
 
-![alt text](image.png)
+![alt text](./img/image.png)
 
 Now lets take a look at the configuration of the Router. We can use command `sh run` in Privilege Exec mode to show all the running configuration that have been done on that Router. We should get something like this
 
